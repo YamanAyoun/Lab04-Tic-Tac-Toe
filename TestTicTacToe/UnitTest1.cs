@@ -17,7 +17,7 @@ namespace TestTicTacToe
             newBoard.GameBoard = new string[,]
             {
                 {"O", "X", "3"},
-                {"4", "X", "O"},
+                {"O", "O", "O"},
                 {"7", "X", "9"},
             };
             newGame.Board = newBoard;
